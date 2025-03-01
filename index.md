@@ -6,3 +6,8 @@
 ###### This is an `<h6>` Header.
 
 ![I'm a Hamstercat!](https://as1.ftcdn.net/v2/jpg/06/49/37/40/1000_F_649374089_xMbYF3BHqqPETNGPj6FHFoHxER1QX6nv.jpg)
+
+``` javaScript
+//This is a comment.
+var myVar = "Hello, world!";
+```
